@@ -75,7 +75,7 @@
 如果您更喜欢使用更干净的 git 历史记录手动执行此操作
 
 ```bash
-npx degit lxy-yz/vitesse-lite-react my-react-app
+npx degit Simon-He95/vitesse-lite-react my-react-app
 cd my-react-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```

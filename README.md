@@ -77,7 +77,7 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit lxy-yz/vitesse-lite-react my-react-app
+npx degit Simon-He95/vitesse-lite-react my-react-app
 cd my-react-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
