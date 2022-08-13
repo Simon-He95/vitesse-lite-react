@@ -1,6 +1,19 @@
 {
+  "name": "vitesse",
+  "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@6.32.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git + git@github.com:Simon-He95/vitesse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Simon-He95/vitesse/issues"
+  },
+  "keywords": [
+    "vitesse"
+  ],
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
