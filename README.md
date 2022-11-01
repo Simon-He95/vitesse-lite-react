@@ -81,3 +81,5 @@ npx degit Simon-He95/vitesse-lite-react my-react-app
 cd my-react-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
+
+<span><div align="center">![sponsors](https://www.hejian.club/images/sponsors.jpg)</div></span>
